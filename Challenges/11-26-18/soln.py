@@ -1,3 +1,6 @@
+# Paul Bivrell | Daily Coding Challenge | 11-26-18
+# To Run: `python3 soln.py`
+
 # Time: O(n^2)
 # Space O(n)
 def soln1(array):
