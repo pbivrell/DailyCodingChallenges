@@ -10,5 +10,5 @@ Every day I will spend 1 hour trying to solve the challenge in as many ways as I
 ## History
 | Date | Puzzle Name | Link | Found Time Complexity | Found Space Complexity | Best Time Complexity | Best Space Complexity |
 |------|-------------|------|-----------------------|------------------------|----------------------|-----------------------|
-| 11-26-18 |   Product of Arrays          |      |         O(n^2) | O(n) | O(n) | O(n) |
+| 11-26-18 | Product of Arrays | [here](Challenges/11-26-18)     |         O(n^2) | O(n) | O(n) | O(n) |
 |      |             |      |                       |                        |                      |                       |
