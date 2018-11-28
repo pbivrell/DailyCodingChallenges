@@ -17,6 +17,7 @@ Each challenge will include some sort of unit testing, when aplicable the testin
 The top of every source file will include a comment describing how to run it.
 
 ## History
-| Date | Puzzle Name | Link | Found Time Complexity | Found Space Complexity | Best Time Complexity | Best Space Complexity |
-|------|-------------|------|-----------------------|------------------------|----------------------|-----------------------|
-| 11-26-18 | Product of Arrays | [Here](Challenges/11-26-18) | O(n^2) | O(n) | O(n) | O(n) |
+| Date | Puzzle Name | Link | Language | Found Time Complexity | Found Space Complexity | Best Time Complexity | Best Space Complexity |
+|----------|-------------------|-------|------------|-----------------------|------------------------|----------------------|-----------------------|
+| 11-26-18 | Product of Arrays | [Here](Challenges/11-26-18) | Python | O(n^2) | O(n) | O(n) | O(n) |
+| 11-27-18 | Serialize/Deserialize Binary Trees| [Here](Challenges/11-27-18) | Python | | | | |
